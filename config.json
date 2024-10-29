@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost:3306/coding", 
+        "prod_uri":"mysql+pymysql://root:@localhost:3306/coding",
+        "fb_url":"https://facebook.com/coding",
+        "tw_url":"https://twitter.com/coding",
+        "gh_url":"https://github.com/coding",
+        "gmail-user":"lesternazareth898@gmail.com",
+        "gmail-password":"gxby dqit mywe dmzd",
+        "about_text":"hi i am lester and i am a bad boy"
+    }
+}
